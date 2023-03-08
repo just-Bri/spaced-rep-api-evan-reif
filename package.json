@@ -29,7 +29,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^10.2.0",
-    "nodemon": "^1.18.9",
+    "nodemon": "^2.0.21",
     "postgrator-cli": "^3.1.0",
     "supertest": "^3.3.0"
   }
